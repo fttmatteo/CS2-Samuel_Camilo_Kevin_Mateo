@@ -1,1 +1,2 @@
-#Construccion_Software_2-KevinAguirre_MateoValencia
+# Construccion De Software 2 | Kevin Aguirre, Mateo Valencia.
+## INTEGRANTES
