@@ -1,3 +1,5 @@
 # Construccion De Software 2
 ## INTEGRANTES
-#### Mateo Valencia y Kevin Aguirre
+#### Mateo Valencia
+#### Samuel Vera Miranda
+#### Kevin Aguirre
